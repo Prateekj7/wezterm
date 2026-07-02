@@ -52,3 +52,6 @@ Leader is `Ctrl+A`. Tap it, release, then press the next key within 1 second.
 | `Cmd+Shift+X` | Copy mode — vim-style keyboard-driven text selection |
 
 All other default WezTerm keybindings (new tab, new window, font zoom, etc.) remain active since this config only adds to, not replaces, the defaults.
+
+## Links
+https://github.com/hendrikmi/dotfiles/blob/main/zsh/custom.zsh
